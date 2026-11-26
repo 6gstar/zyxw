@@ -1,3 +1,4 @@
+[archive/weeb] Evagirl Archive=https://evagirlarchive.neocities.org/feed.xml
 [netart] melopepon=https://neocities.org/site/callus.rss
 [blog/tech] Xe Iaso=https://xeiaso.net/blog.rss
 [blog/varied] rainight=https://rainight.nekoweb.org/index.xml
