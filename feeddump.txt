@@ -1,1 +1,5 @@
 [netart] melopepon=https://neocities.org/site/callus.rss
+[blog/tech] Xe Iaso=https://xeiaso.net/blog.rss
+[blog/varied] rainight=https://rainight.nekoweb.org/index.xml
+[blog/weeb] Artificial Night Sky=https://artificialnightsky.wordpress.com/feed/
+[blog/weeb] nyscyra=https://nyscyra.net/rss.xml
