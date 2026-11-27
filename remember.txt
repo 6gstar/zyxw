@@ -1,0 +1,6 @@
+pfetch
+echo "/usr/pkg/bin/mksh" >> /etc/shells
+exit
+chsh -s /usr/pkg/bin/mksh
+echo $SHELL
+echo $KSH_VERSION
